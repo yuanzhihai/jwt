@@ -1,0 +1,22 @@
+{
+  "name": "yzh52521/jwt",
+  "type": "library",
+  "description": "php stander lib",
+  "license" : "Apache-2.0",
+  "authors": [
+    {
+      "name": "yzh52521",
+      "email": "396751927@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "ext-json": "*",
+    "ext-openssl": ">=1.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "yzh52521\\Jwt\\": "src/"
+    }
+  }
+}
