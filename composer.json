@@ -1,8 +1,7 @@
 {
   "name": "yzh52521/jwt",
-  "type": "library",
   "description": "php stander lib",
-  "license" : "Apache-2.0",
+  "license": "MIT",
   "authors": [
     {
       "name": "yzh52521",
